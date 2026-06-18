@@ -38,7 +38,6 @@ Project Note
 
 This project was implemented by studying an open-source Bluetooth robotic car project and modifying the code during testing, debugging, and development. The project helped me understand the practical implementation of embedded systems and robotics concepts.
 
-Future Improvements
 
 Future Improvements
 
