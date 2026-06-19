@@ -54,11 +54,9 @@ Project Images
   <img src="Images/bottom%20view.jpg" width="250">
 </p>
 
-Demonstration Video
+## Demonstration Video
 
-A working demonstration of the Bluetooth-controlled robotic car is available in this repository.
-
-"▶ Watch Project Demo" (Demonstration_Video/Bluetooth_Robotic_Car_Demo.mp4)
+The project demonstration video is available in the `Demonstration_Video` folder of this repository.
 
 Future Improvements
 
