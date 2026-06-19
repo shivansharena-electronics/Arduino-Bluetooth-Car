@@ -54,6 +54,12 @@ Project Images
   <img src="Images/bottom%20view.jpg" width="250">
 </p>
 
+Demonstration Video
+
+A working demonstration of the Bluetooth-controlled robotic car is available in this repository.
+
+"▶ Watch Project Demo" (Demonstration_Video/Bluetooth_Robotic_Car_Demo.mp4)
+
 Future Improvements
 
 • Obstacle avoidance using ultrasonic sensors
