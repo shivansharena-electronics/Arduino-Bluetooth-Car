@@ -42,16 +42,16 @@ Project Images
 
 <h3>Isometric View</h3>
 <p align="center">
-  <img src="Images/isometric%20view.jpg" width="400">
+  <img src="Images/isometric%20view.jpg" width="250">
 </p><h3>Top View</h3>
 <p align="center">
-  <img src="Images/top%20view.jpg" width="400">
+  <img src="Images/top%20view.jpg" width="250">
 </p><h3>Side View</h3>
 <p align="center">
-  <img src="Images/side%20view.jpg" width="400">
+  <img src="Images/side%20view.jpg" width="250">
 </p><h3>Bottom View</h3>
 <p align="center">
-  <img src="Images/bottom%20view.jpg" width="400">
+  <img src="Images/bottom%20view.jpg" width="250">
 </p>
 
 Future Improvements
